@@ -9,17 +9,17 @@ Esta aplicación permite a los usuarios buscar estrenos de películas por nombre
 
 ## Historia del usuario:
 
-Como usuario cinéfilo
-Quiero encontrar las películas de estreno de mi categoría favorita
-Para que pueda enterarme de las novedades en dicha categoría
+Como usuario cinéfilo  
+Quiero encontrar las películas de estreno de mi categoría favorita  
+Para que pueda enterarme de las novedades en dicha categoría  
 
-Como usuario cinéfilo
-Quiero desplegar el tráiler de cierta película
-Para que pueda visualizar si me interesa verla
+Como usuario cinéfilo  
+Quiero desplegar el tráiler de cierta película  
+Para que pueda visualizar si me interesa verla  
 
-Como usuario cinéfilo
-Quiero encontrar los cines cercanos a mi ubicación
-Para que pueda acudir a ver la película
+Como usuario cinéfilo  
+Quiero encontrar los cines cercanos a mi ubicación  
+Para que pueda acudir a ver la película  
 
 ## Boceto del diseño
 
